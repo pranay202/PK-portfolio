@@ -1,14 +1,14 @@
-# Build a Portfolio
+# Personal Portfolio
 I have build a responsive website that will display images. links and description.
-This is my first portfolio project.
+This is my first portfolio website.
 
 ## You can run and check out this project [here](https://pranay202.github.io/PK-portfolio/)
 
-# Files Included
+# Files Included 
 
 * index.html
 * main.css in css folder
-* Gruntfile.js
+* sass files
 * img folder
 * dist folder
 * package.json
